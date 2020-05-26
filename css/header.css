@@ -1,0 +1,27 @@
+*{
+  background-color: #32527b;
+}
+
+.top-menu{
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex{
+  display: flex;
+}
+
+.menu-item{
+  list-style: none;
+  color: #990000;
+  border: solid 1px purple;
+  background-color: #4c4cff;
+  font-size: 40px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+#front-pic{
+  height: 50%;
+  width: 50%;
+}

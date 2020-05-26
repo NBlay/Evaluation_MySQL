@@ -1,0 +1,35 @@
+.welcome{
+  display: column;
+  text-align: center;
+}
+
+.welcome-text{
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.formu{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+}
+
+td{
+  color: #a45a52;
+  font-size: 20px;
+  border: solid 1px grey;
+  background-color: black;
+}
+input{
+  background-color: white;
+}
+
+textarea{
+  background-color: white;
+}
